@@ -1,0 +1,14 @@
+{
+  "cuisine_types": [
+    {"id": 1, "name": "North Indian"},
+    {"id": 2, "name": "South Indian"},
+    {"id": 3, "name": "Chinese"},
+    {"id": 4, "name": "Fast Food"},
+    {"id": 5, "name": "Biryani"},
+    {"id": 6, "name": "Street Food"},
+    {"id": 7, "name": "Bakery"},
+    {"id": 8, "name": "Desserts"},
+    {"id": 9, "name": "Beverages"},
+    {"id": 10, "name": "Tiffin"}
+  ]
+}

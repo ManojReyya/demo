@@ -1,0 +1,15 @@
+{
+  "business_types": [
+    {"id": 1, "name": "Restaurant"},
+    {"id": 2, "name": "Cloud Kitchen"},
+    {"id": 3, "name": "Tiffin Service"},
+    {"id": 4, "name": "Cafe"},
+    {"id": 5, "name": "Bakery"},
+    {"id": 6, "name": "Food Truck"},
+    {"id": 7, "name": "Street Food Stall"},
+    {"id": 8, "name": "Juice / Beverage Shop"},
+    {"id": 9, "name": "Sweet Shop"},
+    {"id": 10, "name": "Fast Food Outlet"},
+    {"id": 11, "name": "Catering Service"}
+  ]
+}

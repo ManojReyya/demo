@@ -1,0 +1,44 @@
+{
+  "inputs": {
+    "capital_city": "",
+    "famous_food_item": "",
+    "cuisine_type": "",
+    "price_range": "",
+    "business_type": "",
+    "investment_level": "",
+    "online_reach": 0,
+    "delivery_options": 0,
+    "seat_captity": 0
+  },
+  "auto_generated": {
+    "local_food_popularity": "",
+    "competition_level": "",
+    "cuisine_popularity_score": 0,
+    "city_demand_score": 0,
+    "business_density_index": 0,
+    "average_food_price_in_city": 0,
+    "average_customer_volume": 0,
+    "seasonal_demand_factor": 1.0,
+    "delivery_suitability_score": 0
+  },
+  "dynamic_real_time": {
+    "live_online_ordering_volume": 0,
+    "current_trending_score": 0,
+    "recent_new_competitors": 0,
+    "ingredient_price_index": 1.0,
+    "weather_factor": 1.0,
+    "festival_or_event_multiplier": 1.0
+  },
+  "imported_features": {
+    "city_income_level": 0,
+    "population_density": 0,
+    "tourism_index": 0,
+    "social_media_sentiment": 0,
+    "local_event_multiplier": 1.0,
+    "ingredient_import_price_index": 1.0,
+    "competitor_rating_index": 0
+  },
+  "output": {
+    "success_score": 0
+  }
+}
